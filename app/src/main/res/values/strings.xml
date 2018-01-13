@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pompier</string>
+    <string name="welcome">Bienvenue !</string>
+    <string name="welcome_description">TODO Description de l\'application</string>
+    <string name="welcome_skip">Passer</string>
+    <string name="welcome_discover">Découvrir</string>
+</resources>
